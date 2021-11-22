@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-starter-task:2.4.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-task/2.4.0-SNAPSHOT/spring-cloud-starter-task-2.4.0-20211121.224029-198.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-task/2.4.0-SNAPSHOT/spring-cloud-starter-task-2.4.0-20211121.224029-198-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-task/2.4.0-SNAPSHOT/spring-cloud-starter-task-2.4.0-20211121.224029-198-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

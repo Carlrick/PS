@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-contract-spec:3.1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-contract-spec/3.1.0-SNAPSHOT/spring-cloud-contract-spec-3.1.0-20211121.222646-1237.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-contract-spec/3.1.0-SNAPSHOT/spring-cloud-contract-spec-3.1.0-20211121.222646-1237-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-contract-spec/3.1.0-SNAPSHOT/spring-cloud-contract-spec-3.1.0-20211121.222646-1237-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
